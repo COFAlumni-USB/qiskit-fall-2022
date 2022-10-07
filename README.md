@@ -1,5 +1,5 @@
 # Qiskit Fall Fest: Venezuela challenge 2022
-![alt text](https://https://github.com/COFAlumni-USB/qiskit-fall-2022/recursos/qiskitff_ve.png?raw=true)
+![alt text](https://github.com/COFAlumni-USB/qiskit-fall-2022/blob/0e911088fd5c292c107d6be56faa9bd276371110/recursos/qiskitff_ve.png)
 
 ## Welcome
 This is the Qiskit Fall Fest event for Venezuelan universities. We're so exciting to have you all here. This event is being hosted by [COF Alumni USB](https://www.cofalumniusb.org/?lang=en), please consider joining our organization.
