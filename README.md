@@ -16,7 +16,6 @@ The Fall Fest here on Venezuelan universities is going to be a hackathon challen
 
 ## Hackathon challenge details
 - All projects must use Qiskit, the open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules. You can [learn more about Qiskit and begin getting familiar here](https://qiskit.org/learn/).
-- You can not start building your project before the Opening Ceremony, and you must submit your project by the deadline.
 
 
 --------------------------------
