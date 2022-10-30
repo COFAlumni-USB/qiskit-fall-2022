@@ -1,7 +1,7 @@
 # Qiskit Fall Fest: Venezuela challenge 2022
 ![alt text](https://github.com/COFAlumni-USB/qiskit-fall-2022/blob/0e911088fd5c292c107d6be56faa9bd276371110/recursos/qiskitff_ve.png)
 
-## Bienvenidos
+## Welcome
 This is the Qiskit Fall Fest event for Venezuelan universities. We're so exciting to have you all here. This event is being hosted by [COF Alumni USB](https://www.cofalumniusb.org/?lang=en), please consider joining our organization.
 
 The [Qiskit Fall Fest](https://medium.com/qiskit/introducing-the-qiskit-fall-fest-feb8456b557) is a collection of quantum computing events on college campuses around the world. Every Fall Fest event is organized and run by the students on each campus, with support from the entire IBM Quantum team. Student leaders work alongside IBM throughout the month of September to design and plan their event, which are then run in October. The events vary from technical hackathons to beginner-friendly challenges, all with the goal of helping to grow the local community’s skill set.
@@ -29,8 +29,6 @@ We are proud to welcome you to the Venezuelan universities Qiskit Fall Fest. Our
 Make sure to join the COF Alumni USB [Discord](https://discord.gg/QJJNCQDX) where you can connect with mentors and fellow attendees! Join the Qiskit Slack workspace [here](https://ibm.co/joinqiskitslack) if you haven't already. 
 
 <br>
-
-## more
 
 
 
