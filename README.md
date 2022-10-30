@@ -1,12 +1,12 @@
 # Qiskit Fall Fest: Venezuela challenge 2022
 ![alt text](https://github.com/COFAlumni-USB/qiskit-fall-2022/blob/0e911088fd5c292c107d6be56faa9bd276371110/recursos/qiskitff_ve.png)
 
-## Welcome
+## Bienvenidos
 This is the Qiskit Fall Fest event for Venezuelan universities. We're so exciting to have you all here. This event is being hosted by [COF Alumni USB](https://www.cofalumniusb.org/?lang=en), please consider joining our organization.
 
 The [Qiskit Fall Fest](https://medium.com/qiskit/introducing-the-qiskit-fall-fest-feb8456b557) is a collection of quantum computing events on college campuses around the world. Every Fall Fest event is organized and run by the students on each campus, with support from the entire IBM Quantum team. Student leaders work alongside IBM throughout the month of September to design and plan their event, which are then run in October. The events vary from technical hackathons to beginner-friendly challenges, all with the goal of helping to grow the local community’s skill set.
 
-The Fall Fest here on Venezuelan universities is going to be a hackathon challenge, starting on October 21st. Details about the hackathon and rules can be found below. The deadline for registrations is October 20th, at 1pm VET. Any applications submitted after that will NOT be processed. Good luck!
+The Fall Fest here on Venezuelan universities is going to be a hackathon challenge, starting on October 21st. Details about the hackathon and rules can be found below. The deadline for registrations is November 4th, at 1pm VET. Any applications submitted after that will NOT be processed. Good luck!
 
 --------------------------------
 ## Official registration
@@ -15,7 +15,6 @@ The Fall Fest here on Venezuelan universities is going to be a hackathon challen
 
 
 ## Hackathon challenge details
-- All projects submitted must follow the hackathon challenge prompt, which we will reveal at the Opening Ceremony on Oct. 21st at 5pm VET
 - All projects must use Qiskit, the open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules. You can [learn more about Qiskit and begin getting familiar here](https://qiskit.org/learn/).
 - You can not start building your project before the Opening Ceremony, and you must submit your project by the deadline.
 
