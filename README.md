@@ -26,7 +26,7 @@ We are proud to welcome you to the Venezuelan universities Qiskit Fall Fest. Our
 
 
 
-Make sure to join the Discord / email thread / [communication channel](https://google.com) where you can connect with mentors and fellow attendees! Join the Qiskit Slack workspace [here](https://ibm.co/joinqiskitslack) if you haven't already. 
+Make sure to join the COF Alumni USB [Discord](https://discord.gg/QJJNCQDX) where you can connect with mentors and fellow attendees! Join the Qiskit Slack workspace [here](https://ibm.co/joinqiskitslack) if you haven't already. 
 
 <br>
 
