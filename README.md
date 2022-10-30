@@ -21,7 +21,7 @@ The Fall Fest here on Venezuelan universities is going to be a hackathon challen
 --------------------------------
 ## Schedule
 
-We are proud to welcome you to the Venezuelan universities Qiskit Fall Fest. Our team of organizers has put together an amazing schedule of events, learning, guest speakers, and more for you. Find the schedule below, or [download the PDF here](https://github.com/qiskit-community/fall-fest-22/blob/main/Fall%20Fest%20Workshop%20Schedule.pdf)
+We are proud to welcome you to the Venezuelan universities Qiskit Fall Fest. Our team of organizers has put together an amazing schedule of events, learning, guest speakers, and more for you. Find the schedule below, or [download the PDF here]([https://github.com/qiskit-community/fall-fest-22/blob/main/Fall%20Fest%20Workshop%20Schedule.pdf](https://github.com/COFAlumni-USB/qiskit-fall-2022/blob/main/presentations/qiskit-fall-fest-opening.pdf))
 
 
 
