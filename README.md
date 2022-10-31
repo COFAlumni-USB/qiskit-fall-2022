@@ -26,7 +26,7 @@ We are proud to welcome you to the Venezuelan universities Qiskit Fall Fest. Our
 --------------------------------
 ## CHALLENGE
 
-Puedes encontrar el desafíon en [ESTE ENLACE](https://github.com/COFAlumni-USB/qiskit-fall-2022/blob/main/desafio/Qiskit%20Fall%20Fest%20desafi%CC%81o.pdf)
+Puedes encontrar el desafío en [ESTE ENLACE](https://github.com/COFAlumni-USB/qiskit-fall-2022/blob/main/desafio/Qiskit%20Fall%20Fest%20desafi%CC%81o.pdf)
 
 
 
