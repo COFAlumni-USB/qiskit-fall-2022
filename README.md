@@ -25,15 +25,15 @@ The Fall Fest here on Venezuelan universities is going to be a hackathon challen
 
 --------------------------------
 ## Registro oficial/Official registration
-- Antes de registrarte, lee las reglas [aquí](https://github.com/qiskit-community/fall-fest-22/blob/main/Qiskit%20Fall%20Fest%20Official%20Rules%20Template.docx). Este es un desafío para las universdides de Venezuela, si no eres un miembro de la comunidad de universidades venezolanas, no podrás participar en este evento.
+- Antes de registrarte, lee las reglas <s>aquí</s>. Este es un desafío para las universdides de Venezuela, si no eres un miembro de la comunidad de universidades venezolanas, no podrás participar en este evento.
 
-- Para registrarte oficialmente, usa este enlace [this link](https://www.cofalumniusb.org/qiskit-fall)
+- Para registrarte oficialmente, usa este <s>enlace</s>
 
 English 
 
-- Before you register, read the full rules here. This is a hackathon for Venezuelan universities only, if you are not a member of the Venezuelan universities community, you may not participate in this hackathon.'
+- Before you register, read the full rules <s>here</s>. This event is a hackathon for Venezuelan universities only, if you are not a member of the Venezuelan universities community, you may not participate in this hackathon.'
 
-- To officially sign up, register using this link
+- To officially sign up, register using this <s>link</s>
 
 
 ## Normas del desafío
@@ -46,7 +46,7 @@ English
 --------------------------------
 ## Programa/schedule
 
-Estamos encantados de recibir las universidades de Venezuela en Qiskit Fall Fell. Nuestro equipo organizador a programado una serie de presentaciones, tutoriales y material para ti. Encuentra el programa aquí o   [descarga el PDF]([https://github.com/qiskit-community/fall-fest-22/blob/main/Fall%20Fest%20Workshop%20Schedule.pdf](https://github.com/COFAlumni-USB/qiskit-fall-2022/blob/main/presentations/qiskit-fall-fest-opening.pdf)
+Estamos encantados de recibir las universidades de Venezuela en Qiskit Fall Fell. Nuestro equipo organizador a programado una serie de presentaciones, tutoriales y material para ti. Encuentra el programa aquí o   [descarga el PDF](https://github.com/qiskit-community/fall-fest-22/blob/main/Fall%20Fest%20Workshop%20Schedule.pdf](https://github.com/COFAlumni-USB/qiskit-fall-2022/blob/main/presentations/qiskit-fall-fest-opening.pdf)
 
 English: We are proud to welcome you to the Venezuelan universities Qiskit Fall Fest. Our team of organizers has put together an amazing schedule of events, learning, and more for you. Find the schedule below, or [download the PDF here]([https://github.com/qiskit-community/fall-fest-22/blob/main/Fall%20Fest%20Workshop%20Schedule.pdf](https://github.com/COFAlumni-USB/qiskit-fall-2022/blob/main/presentations/qiskit-fall-fest-opening.pdf))
 
