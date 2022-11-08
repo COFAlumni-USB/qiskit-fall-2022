@@ -1,9 +1,6 @@
 # Qiskit Fall Fest: Venezuela challenge 2022
 ![alt text](https://github.com/COFAlumni-USB/qiskit-fall-2022/blob/0e911088fd5c292c107d6be56faa9bd276371110/recursos/qiskitff_ve.png)
 
-# Qiskit Fall Fest: Venezuela desafío 2022
-![alt text](https://github.com/COFAlumni-USB/qiskit-fall-2022/blob/0e911088fd5c292c107d6be56faa9bd276371110/recursos/qiskitff_ve.png)
-
 ## Bienvenidos
 Este es el repositorio de Qiskit Fall Fest para la univerisdades de Venezuela. Estamos encantados de recibirlos. Este evento está organizado por [COF Alumni USB](https://www.cofalumniusb.org/), si te interesa ayudar a este tipo de eventos considera unirte a la asociación.
 
@@ -11,8 +8,10 @@ Este es el repositorio de Qiskit Fall Fest para la univerisdades de Venezuela. E
 
 El Fall Fest para las universidades de Venezuela será un desafío estilo hackathon, comenzando el 28 de octubre 2022. Detalles del hackathon y reglas la pueden encontrar abajo. La fecha límite de regístro es el 4 de noviembre (1 PM VET). Toda aplicación debe ser envíada antes, sino NO será procesada. ¡Buena suerte!
 
+<span style="font-size:largest;">EL DESAFÍO HA TERMINADO</span>
 
-###English
+### English
+
 Welcome
 
 This is the Qiskit Fall Fest event for Venezuelan universities. We're so exciting to have you all here. This event is being hosted by [COF Alumni USB](https://www.cofalumniusb.org/?lang=en), please consider joining our organization.
@@ -20,6 +19,9 @@ This is the Qiskit Fall Fest event for Venezuelan universities. We're so excitin
 The [Qiskit Fall Fest](https://medium.com/qiskit/introducing-the-qiskit-fall-fest-feb8456b557) is a collection of quantum computing events on college campuses around the world. Every Fall Fest event is organized and run by the students on each campus, with support from the entire IBM Quantum team. Student leaders work alongside IBM throughout the month of September to design and plan their event, which are then run in October. The events vary from technical hackathons to beginner-friendly challenges, all with the goal of helping to grow the local community’s skill set.
 
 The Fall Fest here on Venezuelan universities is going to be a hackathon challenge, starting on October 28th. Details about the hackathon and rules can be found below. The deadline for registrations is November 4th, at 1pm VET. Any applications submitted after that will NOT be processed. Good luck!
+
+
+<span style="font-size:largest;">THE CHALLENGE IS OVER</span>
 
 --------------------------------
 ## Registro oficial/Official registration
@@ -52,7 +54,7 @@ English: We are proud to welcome you to the Venezuelan universities Qiskit Fall 
 ## DESAFÍO
 
 
-span style="font-size:larger;">EL DESAFÍO HA TERMINADO/THE CHALLENGE HAS ENDED</span>
+<span style="font-size:largest;">EL DESAFÍO HA TERMINADO/THE CHALLENGE HAS ENDED</span>
 
 
 Puedes encontrar el desafío en [ESTE ENLACE](https://github.com/COFAlumni-USB/qiskit-fall-2022/blob/main/desafio/Qiskit%20Fall%20Fest%20desafi%CC%81o.pdf)
