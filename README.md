@@ -82,7 +82,7 @@ English: Make sure to join the COF Alumni USB ) where you can connect with mento
     + Miguel Luna - Universidad Católica Andres Bello
     
 <br>
-### Jueces
+## Jueces
 
  - Mauricio Gómez Viloria (Qiskit Advocate, Institut d'optique, Palaiseau, France)
  
