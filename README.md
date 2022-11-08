@@ -71,13 +71,15 @@ English: Make sure to join the COF Alumni USB ) where you can connect with mento
 
   - Desafío 1: calibración de un qubit
     
-    María Daniela Agudo - Universidad de Carabobo
+    + María Daniela Agudo - Universidad de Carabobo
   
   - Desafío 2: calibración de un circuito
 
-    Kevin Durán - Universidad de los Andes
-    Timothy Sandoval - Universidad de Carabobo
-    Miguel Luna - Universidad Católica Andres Bello
+    + Kevin Durán - Universidad de los Andes
+    
+    + Timothy Sandoval - Universidad de Carabobo
+    
+    + Miguel Luna - Universidad Católica Andres Bello
     
 <br>
 
