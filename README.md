@@ -62,7 +62,7 @@ Puedes encontrar el desafío en [ESTE ENLACE](https://github.com/COFAlumni-USB/q
 
 
 ## Cómo contactarnos durante el evento/How to contact during the event
-Asegúrate de unirte al servidor de [Discord de COF Alumni USB](https://discord.gg/QJJNCQDX) donde podrás conectarte con mentores y colegas participantes. Te invitamos tamvbién a unirte al espacio de trabajo Slack de Qiskit, [aquí](https://ibm.co/joinqiskitslack)), si no lo has hecho todavía.
+Asegúrate de unirte al servidor de [Discord de COF Alumni USB](https://discord.gg/QJJNCQDX) donde podrás conectarte con mentores y colegas participantes. Te invitamos tamvbién a unirte al espacio de trabajo Slack de Qiskit, [aquí](https://ibm.co/joinqiskitslack), si no lo has hecho todavía.
 
 English: Make sure to join the COF Alumni USB ) where you can connect with mentors and fellow attendees! Join the Qiskit Slack workspace [here](https://ibm.co/joinqiskitslack) if you haven't already. 
 
