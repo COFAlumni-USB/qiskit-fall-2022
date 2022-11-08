@@ -82,13 +82,15 @@ English: Make sure to join the COF Alumni USB ) where you can connect with mento
     + Miguel Luna - Universidad Católica Andres Bello
     
 <br>
-## Jueces
 
- - Mauricio Gómez Viloria (Qiskit Advocate, Institut d'optique, Palaiseau, France)
+## Jurado
+
+
+  - Mauricio Gómez Viloria (Qiskit Advocate, Institut d'optique, Palaiseau, France)
  
- - Manuel Morgado (Centre de physique quantique - CESQ, Strasbourg, France)
+  - Manuel Morgado (Centre de physique quantique - CESQ, Strasbourg, France)
  
- - Gustavo Kuffaty (Institut de Science et d'Ingénierie Supramoléculaires - ISIS, Strasbourg, France) 
+  - Gustavo Kuffaty (Institut de Science et d'Ingénierie Supramoléculaires - ISIS, Strasbourg, France) 
 
 
 <br><br>
