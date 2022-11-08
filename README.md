@@ -69,6 +69,9 @@ English: Make sure to join the COF Alumni USB ) where you can connect with mento
 
 ## GANADORES /WINNERS
 
+Puedes ver el anuncio de los ganadores [aquí](Ganadores_QiskitFallFest.pdf)
+
+
   - Desafío 1: calibración de un qubit
     
     + María Daniela Agudo - (Universidad de Carabobo, Valencia, Venezuela)
