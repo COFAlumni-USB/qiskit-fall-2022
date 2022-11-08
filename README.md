@@ -71,15 +71,15 @@ English: Make sure to join the COF Alumni USB ) where you can connect with mento
 
   - Desafío 1: calibración de un qubit
     
-    + María Daniela Agudo - Universidad de Carabobo
+    + María Daniela Agudo - (Universidad de Carabobo, Valencia, Venezuela)
   
   - Desafío 2: calibración de un circuito
 
-    + Kevin Durán - Universidad de los Andes
+    + Kevin Durán - (Universidad de los Andes, Mérida, Venezuela)
     
-    + Timothy Sandoval - Universidad de Carabobo
+    + Timothy Sandoval - (Universidad de Carabobo, Valencia, Venezuela)
     
-    + Miguel Luna - Universidad Católica Andres Bello
+    + Miguel Luna - (Universidad Católica Andres Bello, Caracas, Venezuela)
     
 <br>
 
@@ -88,9 +88,9 @@ English: Make sure to join the COF Alumni USB ) where you can connect with mento
 
   - Mauricio Gómez Viloria (Qiskit Advocate, Institut d'optique, Palaiseau, France)
  
-  - Manuel Morgado (Centre de physique quantique - CESQ, Strasbourg, France)
+  - Manuel Morgado (Centre Européen de Sciences Quantiques - CESQ, Strasbourg, France)
  
-  - Gustavo Kuffaty (Institut de Science et d'Ingénierie Supramoléculaires - ISIS, Strasbourg, France) 
+  - Gustavo Kuffaty (Centre Européen de Sciences Quantiques - CESQ, Strasbourg, France) 
 
 
 <br><br>
