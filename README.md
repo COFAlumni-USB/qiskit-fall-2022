@@ -83,6 +83,7 @@ English: Make sure to join the COF Alumni USB ) where you can connect with mento
     
 <br>
 ### Jueces
+
  - Mauricio Gómez Viloria (Qiskit Advocate, Institut d'optique, Palaiseau, France)
  
  - Manuel Morgado (Centre de physique quantique - CESQ, Strasbourg, France)
