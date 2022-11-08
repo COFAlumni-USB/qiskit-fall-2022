@@ -95,6 +95,11 @@ Puedes ver el anuncio de los ganadores [aquí](Ganadores_QiskitFallFest.pdf)
  
   - Gustavo Kuffaty (Centre Européen de Sciences Quantiques - CESQ, Strasbourg, France) 
 
+## Agradecimientos:
+
+  - Brian Ingmanson y todo su equipo de Qiskit Fall Fest
+
+  - Comunidad Qiskit
 
 <br><br>
 # [Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)
