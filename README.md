@@ -46,9 +46,9 @@ English
 --------------------------------
 ## Programa/schedule
 
-Estamos encantados de recibir las universidades de Venezuela en Qiskit Fall Fell. Nuestro equipo organizador a programado una serie de presentaciones, tutoriales y material para ti. Encuentra el programa aquí o   [descarga el PDF](https://github.com/qiskit-community/fall-fest-22/blob/main/Fall%20Fest%20Workshop%20Schedule.pdf](https://github.com/COFAlumni-USB/qiskit-fall-2022/blob/main/presentations/qiskit-fall-fest-opening.pdf)
+Estamos encantados de recibir las universidades de Venezuela en Qiskit Fall Fell. Nuestro equipo organizador a programado una serie de presentaciones, tutoriales y material para ti. Encuentra el programa aquí o   [descarga el PDF](https://github.com/qiskit-community/fall-fest-22/blob/main/Fall%20Fest%20Workshop%20Schedule.pdf](https://github.com/COFAlumni-USB/qiskit-fall-2022/blob/main/presentations/qiskit-fall-fest-opening.pdf )
 
-English: We are proud to welcome you to the Venezuelan universities Qiskit Fall Fest. Our team of organizers has put together an amazing schedule of events, learning, and more for you. Find the schedule below, or [download the PDF here]([https://github.com/qiskit-community/fall-fest-22/blob/main/Fall%20Fest%20Workshop%20Schedule.pdf](https://github.com/COFAlumni-USB/qiskit-fall-2022/blob/main/presentations/qiskit-fall-fest-opening.pdf))
+English: We are proud to welcome you to the Venezuelan universities Qiskit Fall Fest. Our team of organizers has put together an amazing schedule of events, learning, and more for you. Find the schedule below, or [download the PDF here](https://github.com/qiskit-community/fall-fest-22/blob/main/Fall%20Fest%20Workshop%20Schedule.pdf](https://github.com/COFAlumni-USB/qiskit-fall-2022/blob/main/presentations/qiskit-fall-fest-opening.pdf )
 
 --------------------------------
 ## DESAFÍO
